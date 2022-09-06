@@ -1,1 +1,0 @@
-console.log(despesaMensal(minhaRenda, minhasDespesas, somaGastos))
