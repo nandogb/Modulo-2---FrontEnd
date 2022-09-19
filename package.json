@@ -233,6 +233,7 @@
     "prop-types": "^15.8.1",
     "punycode": "^2.1.1",
     "queue-microtask": "^1.2.3",
+    "react": "^18.2.0",
     "react-is": "^16.13.1",
     "regexp.prototype.flags": "^1.4.3",
     "regexpp": "^3.2.0",
@@ -304,7 +305,8 @@
     "eslint-plugin-import": "^2.26.0",
     "eslint-plugin-n": "^15.2.5",
     "eslint-plugin-promise": "^6.0.1",
-    "eslint-plugin-react": "^7.31.7"
+    "eslint-plugin-react": "^7.31.7",
+    "jest": "^29.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
