@@ -1,3 +1,0 @@
-beforeEach(() => {
-//   cities = [...cities, 'Pindamonhagaba']
-// })
